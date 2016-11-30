@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://huangchenkun.github.io/"/>
-  <updated>2016-11-28T09:59:21.000Z</updated>
+  <updated>2016-11-30T03:49:49.000Z</updated>
   <id>https://huangchenkun.github.io/</id>
   
   <author>
@@ -16,58 +16,21 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>3</title>
-    <link href="https://huangchenkun.github.io/2016/11/28/3/"/>
-    <id>https://huangchenkun.github.io/2016/11/28/3/</id>
-    <published>2016-11-28T09:59:21.000Z</published>
-    <updated>2016-11-28T09:59:21.000Z</updated>
+    <title>博客介绍</title>
+    <link href="https://huangchenkun.github.io/2016/11/30/%E5%8D%9A%E5%AE%A2%E4%BB%8B%E7%BB%8D/"/>
+    <id>https://huangchenkun.github.io/2016/11/30/博客介绍/</id>
+    <published>2016-11-30T03:07:10.000Z</published>
+    <updated>2016-11-30T03:49:49.000Z</updated>
     
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>2</title>
-    <link href="https://huangchenkun.github.io/2016/11/28/2/"/>
-    <id>https://huangchenkun.github.io/2016/11/28/2/</id>
-    <published>2016-11-28T09:51:48.000Z</published>
-    <updated>2016-11-28T09:52:21.000Z</updated>
-    
-    <content type="html"><![CDATA[<h3 id="lalalal"><a href="#lalalal" class="headerlink" title="lalalal"></a>lalalal</h3>]]></content>
-    
-    <summary type="html">
-    
-      &lt;h3 id=&quot;lalalal&quot;&gt;&lt;a href=&quot;#lalalal&quot; class=&quot;headerlink&quot; title=&quot;lalalal&quot;&gt;&lt;/a&gt;lalalal&lt;/h3&gt;
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://huangchenkun.github.io/2016/11/28/1/"/>
-    <id>https://huangchenkun.github.io/2016/11/28/1/</id>
-    <published>2016-11-28T03:48:47.000Z</published>
-    <updated>2016-11-28T03:49:03.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>..</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+    <content type="html"><![CDATA[<p>前几天花了点时间建了这个博客，至于建博客的目的呢，希望可以借此记录自己的学习进步过程，另外深知自己比较缺少规划且自制力较差，所以可以通过这个做一些整理工作。<br>昨天刚好自己过生日，吃了一个女朋友买的大蛋糕，还叫了小鸡鸡和楠宝一起出去吃了顿火锅，另外感谢朋友们的生日祝福。话说回来 生日还能每年过一次，但是生命里有太多太多的事情一辈子可能也就经历一两次，所以有个博客能纪录所做所想还是很有意义的。<br>又想起来昨晚小鸡鸡说自己的目标是五年赚一个亿，这个逗比真是无一日不在秀逗。但是人生起起落落谁又能预料呢，都说三十年河东三十年河西，其实又何须三十年，三五年之间人的变化就可以很大了。所以心里还是要有点理想甚至是痴心妄想的，万一真的实现了呢。<br>堂吉诃德虽惹人嘲笑，但是谁的心里不曾住着至少住过一个堂吉诃德呢。最后引用一句诗于大家共勉  </p>
+<blockquote>
+<p>莫愁前路无知己 天下谁人不识君  </p>
+</blockquote>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      &lt;p&gt;前几天花了点时间建了这个博客，至于建博客的目的呢，希望可以借此记录自己的学习进步过程，另外深知自己比较缺少规划且自制力较差，所以可以通过这个做一些整理工作。&lt;br&gt;昨天刚好自己过生日，吃了一个女朋友买的大蛋糕，还叫了小鸡鸡和楠宝一起出去吃了顿火锅，另外感谢朋友们的生日祝福。
     
     </summary>
     
