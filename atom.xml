@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://huangchenkun.github.io/"/>
-  <updated>2016-12-01T08:18:11.000Z</updated>
+  <updated>2017-07-03T10:16:13.000Z</updated>
   <id>https://huangchenkun.github.io/</id>
   
   <author>
@@ -14,6 +14,45 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>SDWebImage源码解析（一）</title>
+    <link href="https://huangchenkun.github.io/2017/07/03/SDWebImage%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90%EF%BC%88%E4%B8%80%EF%BC%89/"/>
+    <id>https://huangchenkun.github.io/2017/07/03/SDWebImage源码解析（一）/</id>
+    <published>2017-07-03T09:46:35.000Z</published>
+    <updated>2017-07-03T10:16:13.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="SDWebImage"><a href="#SDWebImage" class="headerlink" title="SDWebImage"></a>SDWebImage</h1><h3 id="Profile"><a href="#Profile" class="headerlink" title="Profile"></a>Profile</h3><p>This library provides an async image downloader with cache support. For convenience, we added categories for UI elements like UIImageView, UIButton, MKAnnotationView.</p>
+<p>github：<a href="https://github.com/rs/SDWebImage" target="_blank" rel="external">https://github.com/rs/SDWebImage</a></p>
+<h3 id="Features"><a href="#Features" class="headerlink" title="Features"></a>Features</h3><ol>
+<li>Categories for UIImageView, UIButton, MKAnnotationView adding web image and cache management</li>
+</ol>
+<ul>
+<li>An asynchronous image downloader</li>
+<li>An asynchronous memory + disk image caching with automatic cache expiration handling</li>
+<li>A background image decompression</li>
+<li>A guarantee that the same old won’t be downloaded several times</li>
+<li>A guarantee that bogus URLs won’t be retried again and again</li>
+<li>A guarantee that main thread will never be blocked</li>
+<li>Performances!</li>
+<li>Use GCD and architecture</li>
+</ul>
+<h3 id="How-To-Use"><a href="#How-To-Use" class="headerlink" title="How To Use"></a>How To Use</h3><p>Objective-C:</p>
+<p><code>[imageView sd_setImageWithURL:[NSURL URLWithString:@&quot;http://www.domain.com/path/to/image.jpg&quot;] placeholderImage:[UIImage imageNamed:@&quot;placeholder.png&quot;]];</code></p>
+<p>Swift:</p>
+<p><code>imageView.sd_setImage(with: URL(string: &quot;http://www.domain.com/path/to/image.jpg&quot;), placeholderImage: UIImage(named: &quot;placeholder.png&quot;))</code></p>
+<h3 id="Architecture"><a href="#Architecture" class="headerlink" title="Architecture"></a>Architecture</h3><p><img src="https://raw.githubusercontent.com/rs/SDWebImage/master/Docs/SDWebImageClassDiagram.png =1000x600" alt="结构图1"></p>
+<p><img src="https://raw.githubusercontent.com/rs/SDWebImage/master/Docs/SDWebImageSequenceDiagram.png =1000x500" alt="结构图2"></p>
+<h3 id="to-be-continued……"><a href="#to-be-continued……" class="headerlink" title="to be continued……"></a>to be continued……</h3>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;SDWebImage&quot;&gt;&lt;a href=&quot;#SDWebImage&quot; class=&quot;headerlink&quot; title=&quot;SDWebImage&quot;&gt;&lt;/a&gt;SDWebImage&lt;/h1&gt;&lt;h3 id=&quot;Profile&quot;&gt;&lt;a href=&quot;#Profile&quot; class
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>利用hexo搭建个人博客</title>
